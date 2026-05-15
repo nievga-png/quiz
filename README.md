@@ -13,7 +13,8 @@ How to run the server:
 - Open localhost/quiz/login.php in your browser
 
 The URL:
-- quizapp.gamer.gd
+- (https://quizapp.gamer.gd/index.php)
+
 
 4. Database schema:
 
